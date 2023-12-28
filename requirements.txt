@@ -1,0 +1,8 @@
+pandas==1.1.5
+numpy==1.19.5
+opencv-python==4.5.5.64
+pybase64==1.2.2
+utm==0.7.0
+boto3==1.21.45
+CouchDB==1.2
+pathlib==1.0.1
