@@ -35,7 +35,7 @@ Follow the below steps to run the project.
 
 * Clone the Git repository
 ```
-$ git clone https://github.com/DAICADigitalHub/Tralicci-IRB.git
+$ git clone https://github.com/DoubleElle1993/Computer-vision-algorithm.git
 ```
 * Achive the local path
 ```
