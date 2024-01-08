@@ -1,5 +1,7 @@
 # Computer Vision application
 
+![alt text]([http://url/to/img.png](https://www.habitante.it/wp-content/uploads/2022/03/abitare-vicino-traliccio.jpg))
+
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
